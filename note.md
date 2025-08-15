@@ -13,3 +13,4 @@ git branch newname
 git checkout newname
 
 
+git merge newbranche change
