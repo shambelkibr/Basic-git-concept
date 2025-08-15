@@ -1,0 +1,10 @@
+git init
+git add
+git status
+ls
+git commit -m ""
+git restore from stage file
+git diff
+git diff catched after stached the change of on the file
+git rm this is to remove the commite file from commmite 
+git branch 
