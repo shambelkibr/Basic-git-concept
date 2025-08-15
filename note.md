@@ -8,3 +8,4 @@ git diff
 git diff catched after stached the change of on the file
 git rm this is to remove the commite file from commmite 
 git branch 
+git merge newbranche change
